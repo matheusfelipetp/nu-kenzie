@@ -1,5 +1,5 @@
 # 💸 Nu Kenzie
-Projeto com objetivo criar uma aplicação que possibilitasse o usuário ter o controle das suas finanças, cadastrando valores de entradas e despesas. Foi utilizado os conceitos de components, props, childrens e useState do React. Além, claro, do CSS com animações e responsividade.
+Projeto com objetivo de criar uma aplicação que possibilitasse o usuário ter o controle das suas finanças, cadastrando valores de entradas e despesas. Foi utilizado os conceitos de components, props, childrens e useState do React. Além, claro, do CSS com animações e responsividade.
 
 ## 💻 Tecnologia
 - CSS3
