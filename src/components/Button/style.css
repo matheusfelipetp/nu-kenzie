@@ -1,0 +1,29 @@
+.btn-default {
+  background: var(--color-brand-1);
+  border: none;
+  border-radius: var(--radius-1);
+  padding: 1rem;
+  font: var(--font-text-1);
+  color: var(--color-white);
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+
+.btn-default:hover {
+  background: var(--color-brand-2);
+}
+
+.btn-default.btn-grey {
+  background: var(--color-grey-2);
+  color: var(--color-grey-0);
+}
+
+.btn-default.btn-grey:hover {
+  filter: brightness(0.9);
+}
+
+@media (min-width: 768px) {
+  .btn-default {
+    max-width: 300px;
+  }
+}
